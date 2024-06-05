@@ -6,7 +6,7 @@ import br.com.dio.desafio.dominio.Dev;
 import br.com.dio.desafio.dominio.Mentoria;
 
 public class Main {
-    public static void main(String[] args) throws Exception {
+    public static void mzain(String[] args) throws Exception {
         
         Curso curso1 = new Curso();
 
